@@ -1,0 +1,43 @@
+
+public class Demo1 {
+
+	
+public static void main(String[] args) {
+	
+	int x=10;
+		//	f		t	
+		if(x >10 && (x=15) > 10)
+			System.out.println("true");
+		else
+			System.out.println("false");
+			
+	
+		System.out.println(x);
+		
+		
+}
+
+}
+
+//  &  T T  = T
+
+// &&  T T =T
+
+
+// every decimal val is read as double by def
+
+/* 
+ *  casting -> conversion 
+ * 
+ * 	primitive  -> 
+ * 	byte, short , int , long
+ * 	float ,double 
+ * boolean
+ * 	char
+
+ * class type -> 
+ * 
+ */
+
+
+
