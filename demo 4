@@ -1,0 +1,17 @@
+public class Demo1 {
+                
+public static void main(String[] args) {
+        long x=99888774456L;
+
+        char y='A';
+        int z=y;
+        System.out.println(z);
+        
+        
+        int a=66;
+        //char b=a;
+        char b=(char)a;
+System.out.println(b);
+}
+
+}
